@@ -1,5 +1,5 @@
 #!/bin/bash
-yum -y install wget httpd-tools vim
+yum -y install wget httpd-tools
 cat <<EOF >/etc/yum.repos.d/nginx.repo
 [nginx]
 name=nginx repo
